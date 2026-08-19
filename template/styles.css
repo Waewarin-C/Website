@@ -45,6 +45,7 @@ h1 {
 .topnav {
     float: left;
     overflow: hidden;
+    margin: 0px;
 }
 
 /* Make navigation responsive to smaller screen size */
